@@ -4,7 +4,7 @@ Desenvolvimento do jogo popularmente conhecido como jogo da "cobrinha". O jogo t
 
 # Como usar
 
-O codigo do trabalho é na linguagem Pyhton. Para sua execução é necessario ter o pyhton instalado e a biblioteca do pygame
+O codigo do trabalho é na linguagem Python. Para sua execução é necessario ter o python instalado e a biblioteca do pygame
 
 # Instalação
 pip install pygame
